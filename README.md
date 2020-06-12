@@ -1,2 +1,2 @@
 # FRBspectra
-Program to stacking repeating FRB absorption spectra.
+Program to stack repeating FRB absorption spectra.
